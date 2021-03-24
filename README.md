@@ -2,4 +2,4 @@
 - 👀 I’m interested in DevOps and Code development
 - 🌱 I’m currently learning advanced skills in devops
 - 💞️ I’m looking to collaborate on infrastructure provisioning related projects
-- 📫 You can reach me using the details on my website [a link](https://amanksingh.wordpress.com/)
+- 📫 You can reach me using the details on my [website](https://amanksingh.wordpress.com/)
