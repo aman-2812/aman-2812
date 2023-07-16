@@ -1,4 +1,4 @@
-👋 Hello, I'm [Your Name]!
+👋 Hello, I'm AMan Kumar Singh
 
 🔒 I am passionate about security and have a strong background in securing applications and infrastructure. I believe in adopting a proactive approach to identify vulnerabilities and implement robust security measures.
 
